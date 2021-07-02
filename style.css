@@ -71,3 +71,50 @@ i {
     border-bottom: solid yellow;
     padding-bottom: 10px;
 }
+
+
+@media all{
+    #main-img{
+        width: 90%;
+        margin-left: 5%;
+
+        padding-top: 20%;
+    
+    }
+#nav-list{
+   text-align:right;
+    padding: 25px;
+    padding-top: 10px;
+    
+
+}
+
+.a-list{
+    padding-bottom: 0px;
+    padding-right: 80px;
+   
+}
+.list-main{
+    text-align:left;
+    display: list-item;
+    
+}
+
+img{
+    width: 90px;
+    margin-left: 40%;
+  
+}
+
+.heart{
+    padding-bottom: 0px;
+    padding-left: 0px;
+
+}
+
+.link-active{
+    padding-bottom: 1px;
+    margin: 1px;
+}
+
+}
